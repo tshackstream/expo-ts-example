@@ -1,6 +1,6 @@
 import React from 'react';
 import {StyleSheet, Text, View} from 'react-native';
-import MyComponent from "components/MyComponent";
+import MyComponent from "myAlias/components/MyComponent";
 
 export default class Root extends React.Component {
   render() {
